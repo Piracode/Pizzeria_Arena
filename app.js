@@ -2,6 +2,7 @@ const express = require("express");
 const ejs = require("ejs");
 const bodyParser =  require("body-parser");
 
+
 const app = express();
 
 app.set("view engine", "ejs")
@@ -14,6 +15,9 @@ app.use(express.static("public"));
 app.listen(3000, function(){
   console.log("Server started on Port 3000")
 });
+
+
+// app.get('/',(req, res) => res.redirect('/spa1');
 
 
 app.get('/', function(req, res) {

@@ -1,0 +1,28 @@
+{
+  "header": {
+    "index": "PIZZAS",
+    "crepes": "CRÊPES",
+    "drink": "BEBIDAS",
+    "contact": "CONTACTO",
+    "promotion": "PROMOCIÓN"
+  },
+  "index_page": {
+    "nuestras_pizzas": "NUESTRAS PIZZAS",
+    "categories": {
+      "pizzas_simples": "PIZZA: SIMPLES" {
+        "base_roja": "Base Roja",
+        "base_blanca": "Base Blanca",
+        "sin_gluten": "Sin Gluten"
+      }
+      "pizzas_carne": "PIZZA: MARISCO" {
+        "del_mar": "Del Mar",
+        "marinera": "Marinera",
+        "napolitana": "Napolitana",
+        "nimes": "Nimes",
+        "noruega": "Noruega",
+        "romana": "Romana",
+        "Sin Gluten": "Sin Gluten"
+      }
+    }
+  }
+}
